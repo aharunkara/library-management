@@ -13,5 +13,5 @@ Instructions to try out the api.
 * you can also use included index.js in the repo.
 * Using defined descriptions of the library use the methods. 
 * write your test code in your js file
-* node yourjsfile.js
+* run "node yourjsfile.js" in terminal
 * see results.
