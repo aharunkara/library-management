@@ -2,7 +2,7 @@ let Library = require('./library.js');
 let cork_city = new Library();
 
 cork_city.lookup("9781472258229"); // => 'Kindred, by Octavia E. Butler (1979)'
-cork_city.add("asd");
+cork_city.add("9781472258229");
 
 cork_city.lookup("9780441569595"); // => 'Neuromancer, by William Gibson (1984)'
 cork_city.add("9780441569595", 3);
