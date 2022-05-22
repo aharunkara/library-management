@@ -15,3 +15,5 @@ Instructions to try out the api.
 * write your test code in your js file
 * run "node yourjsfile.js" in terminal
 * see results.
+
+there is an improved version of the code challenge i completed for an interview, improved version: https://github.com/harunkara94/library-management
