@@ -16,4 +16,4 @@ Instructions to try out the api.
 * run "node yourjsfile.js" in terminal
 * see results.
 
-there is an improved version of the code challenge i completed for an interview, improved version: https://github.com/harunkara94/library-management
+there is an improved version of the code challenge i completed for an interview, improved version: [https://github.com/harunkara94/library-management](https://github.com/harunkara94/librarian-improved)
